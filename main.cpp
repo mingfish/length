@@ -36,8 +36,6 @@ int main(int argc, const char * argv[])
 
 	writeResultsIntoFile(results);
 
-
-
 	return 0;
 }
 
